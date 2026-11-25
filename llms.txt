@@ -1,0 +1,36 @@
+# NorthLane AI
+
+> NorthLane AI is a Southern California marketing studio for small and local businesses. It does SEO, GEO (generative engine optimization) and AEO (answer engine optimization), builds fast websites, and sets up lead follow-up in GoHighLevel. Founded and run by Ethan.
+
+- Service area: Inland Empire, Orange County, Los Angeles County, San Diego County; remote work anywhere in the US
+- Audience: small, local and service businesses
+- Contact: https://northlaneai.com/contact/
+- Policy: no fake reviews and no made-up numbers; unfinished services are labeled as such
+
+## Services
+- [Google profile and reviews](https://northlaneai.com/services/google-profile-reviews/): A complete Google Business Profile and a steady stream of real reviews. It's what Maps, Google's AI and ChatGPT all lean on.
+- [AI search visibility (SEO, GEO, AEO)](https://northlaneai.com/services/ai-search-visibility/): Show up when customers search Google, Google Maps, ChatGPT, Gemini and Perplexity for what you sell in your area.
+- [Fast websites](https://northlaneai.com/services/websites/): Fast, simple sites with a page for every service and city, a call button on every screen, and every lead sent to one place you can see.
+- [Lead follow-up and CRM](https://northlaneai.com/services/lead-follow-up/): Missed-call text back, fast replies and review requests in GoHighLevel, so fewer leads go cold.
+- [AI phone receptionist](https://northlaneai.com/services/ai-receptionist/): An AI receptionist that answers when you can't, handles common questions and books the job. Not for sale until it passes our tests.
+
+## Guides
+- [AI visibility checklist for local businesses (2026)](https://northlaneai.com/guides/ai-visibility-checklist/): A 15-point checklist to get a small or local business found on Google and named by ChatGPT, Gemini, Perplexity and Google AI Overviews.
+- [SEO vs GEO vs AEO: what business owners need to know](https://northlaneai.com/guides/seo-vs-geo-vs-aeo/): Plain-English guide to SEO, GEO (generative engine optimization) and AEO (answer engine optimization) for small businesses, and what to do first.
+- [How to get your business recommended by ChatGPT](https://northlaneai.com/guides/get-recommended-by-chatgpt/): Seven practical steps to get a small or local business named in ChatGPT, Gemini, Perplexity and Google AI Overview answers.
+- [Google Business Profile checklist for local businesses (2026)](https://northlaneai.com/guides/google-business-profile-checklist/): A 16-point Google Business Profile checklist for local businesses: the basics, what you sell, proof, and the upkeep that keeps you showing in Maps and AI answers.
+- [How to get more Google reviews without breaking the rules](https://northlaneai.com/guides/get-more-google-reviews/): A plain guide for local businesses on getting more Google reviews the allowed way: when to ask, what to send, how to reply, and what Google bans.
+- [What a small-business website needs in 2026](https://northlaneai.com/guides/small-business-website-checklist/): What a small or local business website needs in 2026 to get calls and be found by Google and AI tools: clear pages, speed, proof, tracking and the basics machines read.
+
+## Industries
+- [AI search visibility for HVAC companies](https://northlaneai.com/for/hvac/): Get your HVAC company found on Google Maps and named by ChatGPT, Gemini and Perplexity. AI search visibility, fast websites and missed-call follow-up.
+- [AI search visibility for plumbers](https://northlaneai.com/for/plumbers/): Get your plumbing company found on Google Maps and named by ChatGPT, Gemini and Perplexity. AI search visibility, fast websites and missed-call follow-up for plumbers.
+- [AI search visibility for electricians](https://northlaneai.com/for/electricians/): Get your electrical company found on Google Maps and named by ChatGPT, Gemini and Perplexity. AI search visibility, fast websites and lead follow-up for electricians.
+- [AI search visibility for roofing companies](https://northlaneai.com/for/roofers/): Get your roofing company found on Google Maps and named by ChatGPT, Gemini and Perplexity. AI search visibility, fast websites and lead follow-up for roofers.
+- [AI search visibility for dental offices](https://northlaneai.com/for/dentists/): Get your dental office found on Google Maps and named by ChatGPT, Gemini and Perplexity when people look for a new dentist.
+- [AI search visibility for restaurants](https://northlaneai.com/for/restaurants/): Get your restaurant found on Google Maps and named by ChatGPT, Gemini and Perplexity when people ask where to eat. Google profile, reviews and menu pages.
+- [AI search visibility for auto repair shops](https://northlaneai.com/for/auto-repair/): Get your auto repair shop found on Google Maps and named by ChatGPT, Gemini and Perplexity. AI search visibility, fast websites and missed-call follow-up for mechanics.
+
+## Other
+- [Free AI visibility check](https://northlaneai.com/free-ai-visibility-check/): free test of whether Google and AI assistants recommend a business
+- [About Ethan](https://northlaneai.com/about/)
